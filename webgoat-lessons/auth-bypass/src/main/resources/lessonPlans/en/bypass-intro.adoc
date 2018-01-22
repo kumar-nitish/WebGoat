@@ -1,10 +1,10 @@
-== Authentication Bpasses
+== Authentication Bypasses
 
-Authentication Bypasses happen in many ways, but usually take advantage of some flaw in the configuration or logic. Tampering to achieve the right conditions.
+Authentication Bypasses happen in many ways, but usually take advantage of some flaw in the configuration or logic to tamper and achieve the right conditions.
 
 === Hidden inputs
 
-The simplest form is a reliance on a hidden input that is in the web page/DOM.
+The simplest form is relying on a hidden input that is in the web page/DOM.
 
 === Removing Parameters
 
